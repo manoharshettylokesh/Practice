@@ -8,5 +8,7 @@ public class demo {
 
 ////manu
         //lol
+
+        //adding new line in master branch
     }
 }
