@@ -1,24 +1,21 @@
-public class StudentBean {
-int id;
 
+
+public class StudentBean {
+    int id;
 
 
     public static void main(String[] args) {
 
 
-        System.out.println("fixing adding prod fix 3");
+        int a=10;
 
-        System.out.println("adding pros fidx 2");
+        logger.println("fixing adding prod fix 3");
 
-
-
-
+        logger.println("adding pros fidx 2");
 
 
 
     }
-
-
 
 
 }
